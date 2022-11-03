@@ -1,9 +1,6 @@
 # This code will gather inputs (deposit amount, number of lines to bet on & bet amount on each line). 
 # The game will randomise the items within the slot (symbols A-D) for each bet placed and calculate the winnings and updated balance based on the result
 
-
-
-
 import random
 
 # Constants
